@@ -2,5 +2,6 @@
 #define CALCULATOR_LIBRARY_H
 
 void hello(void);
+int add(int a, int b);
 
 #endif
