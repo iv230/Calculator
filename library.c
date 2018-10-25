@@ -7,5 +7,6 @@ void hello(void) {
 }
 
 int add(int a, int b) {
+    printf("Une addition est en cours, patientez.");
     return a+b;
 }
